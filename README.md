@@ -2,6 +2,20 @@
 
 Text2SQL-AI is an AI-powered application that allows you to generate SQL queries from natural language input, supported by powerful language models. Whether you upload a data file or simply provide a table schema, your text is converted into SQL queries, and the results are presented in a tabular format.
 
+---
+
+## 📸 Screenshots
+
+* #### "Describe Data with Text" Tab
+![Text2SQL-AI](https://github.com/user-attachments/assets/c33a5d56-b3c3-4adc-96d6-082d15079429)
+---
+* #### "Describe Data with Excel" Tab (P1)
+![Text2SQL-AI](https://github.com/user-attachments/assets/bab94352-1fcf-4bc9-bc74-5cd9ae2612e2)
+---
+* #### "Describe Data with Excel" Tab (P2)
+![Text2SQL-AI](https://github.com/user-attachments/assets/000c5681-0cf2-4ec5-b5cb-7f7f84be0951)
+
+
 ## 🖥️ Demo
 
 🔗 [Text2SQL-AI](https://text2sql-ai-demo.streamlit.app)
