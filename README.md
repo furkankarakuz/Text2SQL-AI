@@ -26,6 +26,7 @@ Text2SQL-AI is an AI-powered application that allows you to generate SQL queries
 
 * **Text → SQL**: Converts natural language questions into SQL queries.
 * **CSV/XLSX Support**: Upload your own data files and generate custom queries.
+* **RAM-Based Temporary Database**: Uploaded Excel or CSV files are processed in-memory with SQLite, ensuring fast queries without persistent storage.
 * **Query Without Sharing Full Data**: If you prefer not to share full data, you can provide just the table schema and a few sample rows.
 * **Markdown-Formatted Results**: SQL queries and their outputs are displayed in markdown format, making them easy to copy and share.
 * **Preview Table (for SELECT queries)**: SELECT-type queries return a visual table preview of the results.
